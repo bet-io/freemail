@@ -10,7 +10,7 @@
 
 ## 一键部署
 
-[![Deploy to Cloudflare Workers](https://deploy.workers.cloudflare.com/button)](https://deploy.workers.cloudflare.com/?url=https://github.com/username/repo)
+[![Deploy to Cloudflare Workers](https://deploy.workers.cloudflare.com/button)](https://deploy.workers.cloudflare.com/?url=https://github.com/bet-io/freemail)
 
  ### [点击查看一键部署指南](docs/yijianbushu.md)
 
